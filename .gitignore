@@ -1,0 +1,27 @@
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Docs
+docs/
+
+# Data / Logs
+history.json
+*.log
